@@ -1,0 +1,17 @@
+h1{
+    
+    position: relative;
+    display: inline-block;
+}
+section{
+    width: 60%;
+    display: inline-block;
+}
+
+aside{
+    display: inline;
+    width: 40%;
+    float: right;
+}
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
